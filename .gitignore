@@ -1,0 +1,8 @@
+# Ignore all build/dist directories
+target
+
+# Ignore InteliJ Idea project files
+.idea/
+*.iml
+*.iws
+*.ipr
